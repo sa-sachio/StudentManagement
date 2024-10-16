@@ -19,3 +19,5 @@ public class StudentManagementApplication {
 		return 17 * ( 20 + 35 );
 	}
 }
+
+//テスト
